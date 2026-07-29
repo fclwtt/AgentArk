@@ -22,7 +22,7 @@
   <a href="#what-is-agentark"><img src="https://img.shields.io/badge/WEB_UI-localhost:8990-7C3AED?style=for-the-badge" alt="Web UI"></a>
   <a href="ARCHITECTURE.md#why-rust"><img src="https://img.shields.io/badge/RUST-runtime-B7410E?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></a>
   <a href="#license"><img src="https://img.shields.io/badge/LICENSE-MIT_%2F_Apache--2.0-orange?style=for-the-badge" alt="License"></a>
-  <a href="https://deepwiki.com/agentark-ai/AgentArk"><img src="https://img.shields.io/badge/DEEPWIKI-Ask_the_codebase-1F6FEB?style=for-the-badge" alt="DeepWiki"></a>
+  <a href="https://deepwiki.com/agentark-ai/AgentArk"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
   <a href="https://discord.gg/v32znQ6W"><img src="https://img.shields.io/badge/DISCORD-Join_community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
