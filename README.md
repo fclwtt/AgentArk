@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  AgentArk lets you build agents from prompts, tools, and integrations, then run them as apps, automations, watchers, or chat sessions.<br>
-  Unlike stateless chatbot wrappers, AgentArk agents can remember, reflect, and improve from real usage - with approvals, traces, and safety boundaries under your control.
+  AgentArk is a secure, self-hosted runtime for AI agents that learn from experience and defend their operating boundaries.<br>
+  Build with prompts, tools, and integrations, then deploy as apps, automations, watchers, or chat. Unlike stateless wrappers, AgentArk remembers outcomes, reflects on corrections, and proposes improvements while sandboxing execution, blocking unsafe actions, escalating risk for approval, and keeping every action traceable and under your control.
 </p>
 
 <p align="center">
@@ -18,27 +18,17 @@
 </p>
 
 <p align="center">
-  <a href="#install"><img src="https://img.shields.io/badge/INSTALL-Docker_Compose-2ea44f?style=for-the-badge" alt="Install"></a>
-  <a href="#what-is-agentark"><img src="https://img.shields.io/badge/WEB_UI-localhost:8990-7C3AED?style=for-the-badge" alt="Web UI"></a>
-  <a href="ARCHITECTURE.md#why-rust"><img src="https://img.shields.io/badge/RUST-runtime-B7410E?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></a>
-  <a href="#license"><img src="https://img.shields.io/badge/LICENSE-MIT_%2F_Apache--2.0-orange?style=for-the-badge" alt="License"></a>
+  <a href="#install"><img src="https://img.shields.io/badge/INSTALL-Docker_Compose-2ea44f" alt="Install"></a>
+  <a href="#what-is-agentark"><img src="https://img.shields.io/badge/WEB_UI-localhost:8990-7C3AED" alt="Web UI"></a>
+  <a href="ARCHITECTURE.md#why-rust"><img src="https://img.shields.io/badge/RUST-runtime-B7410E?logo=rust&logoColor=white" alt="Rust"></a>
+  <a href="#license"><img src="https://img.shields.io/badge/LICENSE-MIT_%2F_Apache--2.0-orange" alt="License"></a>
   <a href="https://deepwiki.com/agentark-ai/AgentArk"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
-  <a href="https://discord.gg/v32znQ6W"><img src="https://img.shields.io/badge/DISCORD-Join_community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://youtu.be/44MZlX2II2E"><img src="https://img.shields.io/badge/DEMO-Watch-FF0000?logo=youtube&logoColor=white" alt="Demo"></a>
+  <a href="https://discord.gg/v32znQ6W"><img src="https://img.shields.io/badge/DISCORD-Join_community-5865F2" alt="Discord"></a>
 </p>
 
 <p align="center">
   <strong>Reviewable self-learning:</strong> AgentArk learns from accepted work, corrections, repeated workflows, and live tool outcomes, then proposes improvements to memory, prompts, routing, classifiers, and context-saving profiles.
-</p>
-
-<p align="center">
-  <a href="#install">Install</a> &middot;
-  <a href="https://youtu.be/44MZlX2II2E">Demo</a> &middot;
-  <a href="#features">Features</a> &middot;
-  <a href="#architecture">Architecture</a> &middot;
-  <a href="#security">Security</a> &middot;
-  <a href="API.md">API</a> &middot;
-  <a href="https://deepwiki.com/agentark-ai/AgentArk">DeepWiki</a> &middot;
-  <a href="https://discord.gg/v32znQ6W">Discord</a>
 </p>
 
 > [!IMPORTANT]
